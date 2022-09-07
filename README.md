@@ -1,16 +1,9 @@
 # flutter_movie_library
 
-A new Flutter project.
+Penerapan http request menggunakan package http untuk mengambil data api dari website themoviedb.org.
 
-## Getting Started
+## Praktikum
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| Daftar Film                                        | Detail Film                                        |
+| -------------------------------------------------- | -------------------------------------------------- |
+| <img src="images/basic_movie_lib_1.png" width=500> | <img src="images/basic_movie_lib_2.png" width=500> |
